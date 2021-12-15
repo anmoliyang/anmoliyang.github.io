@@ -1,13 +1,13 @@
-@import 'bootstrap.min.css';
-@import 'bootstrap-grid.min.css';
-@import 'animate.css';
-@import 'ionicons.min.css';
-@import 'linearicons.css';
-@import 'animsition.css';
-@import 'magnific-popup.css';
-@import 'jquery.pagepiling.css';
-@import 'owl.carousel.css';
-@import 'iconfont.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/bootstrap.min.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/bootstrap-grid.min.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/animate.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/ionicons.min.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/linearicons.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/animsition.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/magnific-popup.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/jquery.pagepiling.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/owl.carousel.css';
+@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/iconfont.css';
 * {
     touch-action: pan-y;
 }
