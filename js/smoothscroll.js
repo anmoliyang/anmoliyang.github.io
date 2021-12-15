@@ -30,7 +30,7 @@ var inputNodeNames=/^(textarea|select|embed|object)$/i;var buttonTypes=/^(button
 if((isNodeName(target,'button')||isNodeName(target,'input')&&buttonTypes.test(target.type))&&event.keyCode===key.spacebar){return true;}
 var shift,x=0,y=0;var elem=overflowingAncestor(activeElement);var clientHeight=elem.clientHeight;if(elem==document.body){clientHeight=window.innerHeight;}
 switch(event.keyCode){case key.up:y=-options.arrowScroll;break;case key.down:y=options.arrowScroll;break;case key.spacebar:shift=event.shiftKey?1:-1;y=-shift*clientHeight*0.9;break;case key.pageup:y=-clientHeight*0.9;break;case key.pagedown:y=clientHeight*0.9;break;case key.home:y=-elem.scrollTop;break;case key.end:var damt=elem.scrollHeight-elem.scrollTop-clientHeight;y=(damt>0)?damt+10:0;break;case key.left:x=-options.arrowScroll;break;case key.right:x=options.arrowScroll;break;default:return true;}
-scrollArray(elem,x,y);event.preventDefault();scheduleClearCache();}
+scrollArray(elem,x,y);<!-- event.preventDefault(); -->scheduleClearCache();}
 function mousedown(event){activeElement=event.target;}
 var uniqueID=(function(){var i=0;return function(el){return el.uniqueID||(el.uniqueID=i++);};})();var cache={};var clearCacheTimer;function scheduleClearCache(){clearTimeout(clearCacheTimer);clearCacheTimer=setInterval(function(){cache={};},1*1000);}
 function setCache(elems,overflowing){for(var i=elems.length;i--;)
