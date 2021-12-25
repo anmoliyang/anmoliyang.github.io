@@ -1,13 +1,13 @@
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/bootstrap.min.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/bootstrap-grid.min.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/animate.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/ionicons.min.css';
+@import 'bootstrap.min.css';
+@import 'bootstrap-grid.min.css';
+@import 'animate.css';
+@import 'ionicons.min.css';
 @import 'linearicons.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/animsition.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/magnific-popup.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/jquery.pagepiling.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/owl.carousel.css';
-@import 'https://cdn.jsdelivr.net/gh/anmoliyang/anmoliyang.github.io@master/css/iconfont.css';
+@import 'animsition.css';
+@import 'magnific-popup.css';
+@import 'jquery.pagepiling.css';
+@import 'owl.carousel.css';
+@import 'iconfont.css';
 * {
     touch-action: pan-y;
 }
@@ -26,7 +26,6 @@ body {
 	background: #1b1b1b;
 	-webkit-overflow-scrolling: touch
 }
-
 ::-webkit-scrollbar {
 	width: 8px;
 	height: 8px
@@ -438,11 +437,14 @@ label.error {
 	left: 0;
 	top: 0;
 	width: 100%;
-	padding-top: 2.7rem;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
 	height: 7rem;
 	color: #fff;
 	margin: 0;
-	border-radius: 0
+	border-radius: 0;
+	backdrop-filter: blur(20px);
+	margin-left: -8px;
 }
 
 .navbar .brand {
@@ -472,7 +474,7 @@ a.brand:focus {
 
 .brand-info {
 	display: inline-block;
-	vertical-align: middle
+	vertical-align: middle;
 }
 
 .brand-name {
@@ -1404,6 +1406,7 @@ a.brand:focus {
 .col-partner img {
 	margin: 10px auto;
 	max-width: 100%;
+	border-radius: 6px;
 }
 
 .col-partner:hover img {
@@ -1724,7 +1727,7 @@ a.brand:focus {
 .card-box .card-info {
 	padding: 11px 16px 0px;
 	height: auto;
-	position: relative
+	position: relative;
 }
 .album-card-box .card-info .card-info-title,
 .card-box .card-info .card-info-title {
@@ -1734,7 +1737,8 @@ a.brand:focus {
 	line-height: 20px;
 	white-space: nowrap;
 	text-overflow: ellipsis;
-	overflow: hidden
+	overflow: hidden;
+	width: 20.625rem;
 }
 .text-uppercas {
 	font-family: montserrat, sans-serif;

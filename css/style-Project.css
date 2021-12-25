@@ -930,7 +930,7 @@ a.brand:focus {
 .pp-slidesNav .active span,
 #pp-nav span:hover,
 .pp-slidesNav span:hover {
-	background: #0D0D0D
+	background: #ff4e8200
 }
 
 #pp-nav li .active span,
@@ -1047,7 +1047,7 @@ a.brand:focus {
 	margin-top: 0;
 	margin-bottom: 2.8rem;
 	letter-spacing: .1em;
-	font-size:1.5em
+	font-size:1.2em
 }
 
 .title-uppercase {
