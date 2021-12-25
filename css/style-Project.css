@@ -8,9 +8,11 @@
 @import 'jquery.pagepiling.css';
 @import 'owl.carousel.css';
 @import 'iconfont.css';
+
 * {
-    touch-action: pan-y;
+	touch-action: pan-y;
 }
+
 html {
 	font-size: 12px;
 	-webkit-font-smoothing: antialiased
@@ -413,7 +415,6 @@ label.error {
 
 .text-primary {
 	color: #ff4e82 !important
-	
 }
 
 .masked {
@@ -1047,7 +1048,7 @@ a.brand:focus {
 	margin-top: 0;
 	margin-bottom: 2.8rem;
 	letter-spacing: .1em;
-	font-size:1.2em
+	font-size: 1.2em
 }
 
 .title-uppercase {
@@ -1380,6 +1381,7 @@ a.brand:focus {
 	color: #ff4e82;
 	text-decoration: none
 }
+
 @media(min-width:768px) {
 
 	.project-title {
@@ -1703,6 +1705,7 @@ a.brand:focus {
 		display: block
 	}
 }
+
 .card-box {
 	float: left;
 	position: relative;
@@ -1710,6 +1713,7 @@ a.brand:focus {
 	border-radius: 6px;
 	margin: 0 0 2.5rem 0
 }
+
 .card-box .card-img a img {
 	vertical-align: middle;
 	border: none;
@@ -1719,17 +1723,20 @@ a.brand:focus {
 	transition: .1s linear;
 	display: block
 }
+
 .album-card-box .card-img,
 .card-box .card-img {
 	position: relative;
 	border-radius: 6px 6px 0 0;
 }
+
 .album-card-box .card-info,
 .card-box .card-info {
 	padding: 11px 16px 0px;
 	height: auto;
 	position: relative
 }
+
 .album-card-box .card-info .card-info-title,
 .card-box .card-info .card-info-title {
 	margin-bottom: 0.625rem;
@@ -1740,6 +1747,7 @@ a.brand:focus {
 	text-overflow: ellipsis;
 	overflow: hidden
 }
+
 .text-uppercas {
 	font-family: montserrat, sans-serif;
 	font-weight: 600;
@@ -1750,22 +1758,47 @@ a.brand:focus {
 	margin: 2.0rem 0 3.0rem 0;
 	text-decoration: none
 }
-.album-card-box .card-info .card-info-type, .card-box .card-info .card-info-type {
-    font-size: 14px;
-    color: #bbb;
-    margin-bottom: 25px;
-    height: 18px;}
+
+.album-card-box .card-info .card-info-type,
+.card-box .card-info .card-info-type {
+	font-size: 14px;
+	color: #bbb;
+	margin-bottom: 25px;
+	height: 18px;
+}
+
 .span jiacuziti {
-        font-family: montserrat, sans-serif;
-        font-weight: 600;
-        font-size: 1.714rem;
-        line-height: 1.25;
-        letter-spacing: .025em;
-        /* color: #fff; */
-        margin: 2.6rem 0;}
-.fontsize-p{
+	font-family: montserrat, sans-serif;
+	font-weight: 600;
+	font-size: 1.714rem;
+	line-height: 1.25;
+	letter-spacing: .025em;
+	/* color: #fff; */
+	margin: 2.6rem 0;
+}
+
+.fontsize-p {
 	font-size: 1.1em;
 }
-.navbar boxed{
+
+.navbar boxed {
 	background-color: #1b1b1b;
+}
+
+.breadcrumb {
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	padding: 0.75rem 0rem !important;
+	list-style: none;
+	background-color: #0000 !important;
+	text-decoration: none;
+}
+
+.breadcrumb li {
+	display: inline-block;
+}
+
+.breadcrumb li a {
+	text-decoration: none;
 }

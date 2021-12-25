@@ -1698,7 +1698,7 @@ a.brand:focus {
 	}
 }
 
-@media(min-height:700px) {
+@media(min-width:700px) {
 	.copy-bottom {
 		display: block
 	}
@@ -1824,6 +1824,7 @@ a.brand:focus {
 	right: 4rem;
 	width: 3rem;
 }
+
 .bi-arrow-down-square-fill {
 	height: auto;
 	position: fixed;
@@ -1842,4 +1843,28 @@ a.brand:focus {
 	border-radius: 10rem;
 	right: 4rem;
 	width: 3rem;
+}
+
+.breadcrumb {
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	padding: 0.75rem 0rem !important;
+	list-style: none;
+	background-color: #0000 !important;
+	text-decoration: none;
+}
+
+.breadcrumb li {
+	display: inline-block;
+}
+
+.breadcrumb li a {
+	text-decoration: none;
+}
+
+@media (min-width:992px) {
+	.disappear {
+		display: block !important;
+	}
 }
