@@ -9,13 +9,13 @@ import {
 	r as Io,
 	u as Uo,
 	w as zo
-} from "./chunk-2WRLIO6B.mjs";
+} from "https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/chunk-2WRLIO6B.mjs";
 import {
 	a as yn,
 	b as cs,
 	c as Pe,
 	d as C
-} from "./chunk-H655HCC6.mjs";
+} from "https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/chunk-H655HCC6.mjs";
 var al = {};
 cs(al, {
 	default: () => k,
