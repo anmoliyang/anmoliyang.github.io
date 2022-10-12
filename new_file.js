@@ -7144,4 +7144,4 @@ zo();
 		__framer__perspective: 1200
 	}, at(e)), document.getElementById("__framer-badge-container"))
 })();
-//# sourceMappingURL=new_file.js.map
+//# sourceMappingURL=https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/_script0.DVR377AS.mjs.map
