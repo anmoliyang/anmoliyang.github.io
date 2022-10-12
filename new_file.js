@@ -7060,31 +7060,31 @@ zo();
 	let e = {
 			augiA20Il: {
 				elements: {},
-				page: bn(() => import("./7Eexv2AUhjuRLG14jEVCyFmbm6n-z3JX27klxYYUJnU.OXCMAFZV.mjs")),
+				page: bn(() => import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/7Eexv2AUhjuRLG14jEVCyFmbm6n-z3JX27klxYYUJnU.OXCMAFZV.mjs")),
 				path: "/"
 			},
 			CsKf7nsIn: {
 				elements: {},
-				page: bn(() => import("./DroYSx5i6F3j7tXxd5ZD_xLxdo_iU_o1zt7EDC_1c2M.GQNV7GUD.mjs")),
+				page: bn(() => import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/DroYSx5i6F3j7tXxd5ZD_xLxdo_iU_o1zt7EDC_1c2M.GQNV7GUD.mjs")),
 				path: "/connect"
 			},
 			CT4DeA8BS: {
 				elements: {},
-				page: bn(() => import("./lvCkt5Fe22jL2qa3Sm-U17NnAKKFMj7dvdRWkbduzMM.UUBBYKOR.mjs")),
+				page: bn(() => import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/lvCkt5Fe22jL2qa3Sm-U17NnAKKFMj7dvdRWkbduzMM.UUBBYKOR.mjs")),
 				path: "/coming"
 			},
 			HjXgaCCjD: {
 				elements: {},
-				page: bn(() => import("./CMjfX8d7Ar8C05mf4pbQqWW5ILsi0aBQONLpZgKPQ24.7EORY4PK.mjs")),
+				page: bn(() => import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/CMjfX8d7Ar8C05mf4pbQqWW5ILsi0aBQONLpZgKPQ24.7EORY4PK.mjs")),
 				path: "/project"
 			},
 			OB2l5GO0v: {
 				elements: {},
-				page: bn(() => import("./m-xa_Zvwi5ClkPli43NCdO-MshLAcxflgrPOAg5TrgA.XFXPHTHO.mjs")),
+				page: bn(() => import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/m-xa_Zvwi5ClkPli43NCdO-MshLAcxflgrPOAg5TrgA.XFXPHTHO.mjs")),
 				path: "/about"
 			}
 		},
-		n = bn(() => import("./__framer-not-found-page.2QT6KGVS.mjs")),
+		n = bn(() => import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/__framer-not-found-page.2QT6KGVS.mjs")),
 		t = document.getElementById("main"),
 		l, u, r = !1;
 	if ("framerHydrateV2" in t.dataset) {
