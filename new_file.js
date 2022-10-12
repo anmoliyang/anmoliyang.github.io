@@ -7144,4 +7144,4 @@ zo();
 		__framer__perspective: 1200
 	}, at(e)), document.getElementById("__framer-badge-container"))
 })();
-//# sourceMappingURL=_script0.DVR377AS.mjs.map
+//# sourceMappingURL=new_file.js.map
