@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anmoli.framer.website/sitemap.xml
