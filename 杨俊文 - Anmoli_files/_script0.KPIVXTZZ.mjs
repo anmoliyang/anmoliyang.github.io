@@ -1,5 +1,5 @@
-import {B as No, E as Bo, L as Ao, a as xo, c as at, l as nl, q as j, r as Io, u as zo, w as Uo} from "./chunk-PUDPL3HM.mjs";
-import {a as bn, b as cs, c as Se, d as F} from "./chunk-H655HCC6.mjs";
+import {B as No, E as Bo, L as Ao, a as xo, c as at, l as nl, q as j, r as Io, u as zo, w as Uo} from "https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/chunk-PUDPL3HM.mjs";
+import {a as bn, b as cs, c as Se, d as F} from "https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/chunk-H655HCC6.mjs";
 var al = {};
 cs(al, {
     default: ()=>k,
@@ -8791,85 +8791,85 @@ Uo();
     let e = {
         augiA20Il: {
             elements: {},
-            page: j(()=>import("./UfbEm9H7rfRJMTSIeemQl1q4VWirchtktBx-cJAfWVw.CKE3E3PQ.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/UfbEm9H7rfRJMTSIeemQl1q4VWirchtktBx-cJAfWVw.CKE3E3PQ.mjs")),
             path: "/"
         },
         bBJKDo0xd: {
             elements: {},
-            page: j(()=>import("./RBQKmMLJqbddmKaq4oizb_OR08TkvCKdw8sMXbD5KHU.X3JS3MB7.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/RBQKmMLJqbddmKaq4oizb_OR08TkvCKdw8sMXbD5KHU.X3JS3MB7.mjs")),
             path: "/scc"
         },
         CT4DeA8BS: {
             elements: {},
-            page: j(()=>import("./TjR0KUMP_pDipU_gam3uzMBfUNot0ehf1BoR2VPMS6c.APYLK74P.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/TjR0KUMP_pDipU_gam3uzMBfUNot0ehf1BoR2VPMS6c.APYLK74P.mjs")),
             path: "/coming"
         },
         FpDJSWSbA: {
             elements: {},
-            page: j(()=>import("./U2ZaeYDS7mSYaUNFyoUiGjBoGu_GQZPVvb0Bbt5XlGM.3HHYXLGI.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/U2ZaeYDS7mSYaUNFyoUiGjBoGu_GQZPVvb0Bbt5XlGM.3HHYXLGI.mjs")),
             path: "/jy03"
         },
         Gzm9zy6eT: {
             elements: {},
-            page: j(()=>import("./bmutGSMGk8LpHPh4LVwVUCgZ-KQ3rcT4lJUX2nHPDts.KI5TZQBF.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/bmutGSMGk8LpHPh4LVwVUCgZ-KQ3rcT4lJUX2nHPDts.KI5TZQBF.mjs")),
             path: "/jy02"
         },
         igwNDPsSE: {
             elements: {},
-            page: j(()=>import("./fi7-cqH2lf8I6wj5Av8VW8L_ErV7G6dHYYwVNpSvEPc.QJHQTGF7.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/fi7-cqH2lf8I6wj5Av8VW8L_ErV7G6dHYYwVNpSvEPc.QJHQTGF7.mjs")),
             path: "/project-device"
         },
         L5HTDAZHF: {
             elements: {},
-            page: j(()=>import("./T8IZ4fAgyORNR7ati0NEPxYsMwzLHnc_L6XgU3w1zHQ.YFAR2EC3.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/T8IZ4fAgyORNR7ati0NEPxYsMwzLHnc_L6XgU3w1zHQ.YFAR2EC3.mjs")),
             path: "/gjsmc"
         },
         lYvaNqhLM: {
             elements: {},
-            page: j(()=>import("./6rbXLc5QWA6Nc2baYlhuEAKn663EeTTdK9sMsT8b-8E.Y4SFMLDD.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/6rbXLc5QWA6Nc2baYlhuEAKn663EeTTdK9sMsT8b-8E.Y4SFMLDD.mjs")),
             path: "/project"
         },
         MDGjyFzaX: {
             elements: {},
-            page: j(()=>import("./hfsFSzuot4z5xXg9zACeGhZZJxSexqvYJDpUhC6nf-8.F5M7OMBJ.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/hfsFSzuot4z5xXg9zACeGhZZJxSexqvYJDpUhC6nf-8.F5M7OMBJ.mjs")),
             path: "/project-web"
         },
         MpPD4vXLI: {
             elements: {},
-            page: j(()=>import("./Wx9gogsXdtOaYfABlfKCE_MHT5OcbjO-z92iSKp3F04.5TNZW2DW.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/Wx9gogsXdtOaYfABlfKCE_MHT5OcbjO-z92iSKp3F04.5TNZW2DW.mjs")),
             path: "/connect"
         },
         OB2l5GO0v: {
             elements: {},
-            page: j(()=>import("./0a4i5X8Avkz9KlzihkTXHVadnm8sKaMktksHgwqPyI0.TCNZXIAR.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/0a4i5X8Avkz9KlzihkTXHVadnm8sKaMktksHgwqPyI0.TCNZXIAR.mjs")),
             path: "/cph"
         },
         QaLIZeOVO: {
             elements: {},
-            page: j(()=>import("./HZHcPRSvs3luLWhgLYMBVUKnX2g7BRH7NTFNbSIhG8Q.AGJJSH3G.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/HZHcPRSvs3luLWhgLYMBVUKnX2g7BRH7NTFNbSIhG8Q.AGJJSH3G.mjs")),
             path: "/about"
         },
         QC4OtLpvh: {
             elements: {},
-            page: j(()=>import("./G7pnfpGyRWNgrbGRU9THhcmqD_lnlZeQL76V9cKouxM.A2WHZQQP.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/G7pnfpGyRWNgrbGRU9THhcmqD_lnlZeQL76V9cKouxM.A2WHZQQP.mjs")),
             path: "/hlxr"
         },
         Ro0mMXecm: {
             elements: {},
-            page: j(()=>import("./6Ya-oOAM0UJhnJgveA56GoGAxAMj6cvN6wnqJ9TMbfs.OUEDXBLQ.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/6Ya-oOAM0UJhnJgveA56GoGAxAMj6cvN6wnqJ9TMbfs.OUEDXBLQ.mjs")),
             path: "/project-mobile"
         },
         UbpjDmgLQ: {
             elements: {},
-            page: j(()=>import("./9BdXmMCuQCPjLCePuo5TMeXdryx5oq2x4ECnVLAIaUs.W63YNMWW.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/9BdXmMCuQCPjLCePuo5TMeXdryx5oq2x4ECnVLAIaUs.W63YNMWW.mjs")),
             path: "/xbshq"
         },
         uEtTdUZYv: {
             elements: {},
-            page: j(()=>import("./iZFOI3IvWlSnJlbukFi7CDCtwyd4fXsmeAk-bEv4uMk.7EBN3Z2A.mjs")),
+            page: j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/iZFOI3IvWlSnJlbukFi7CDCtwyd4fXsmeAk-bEv4uMk.7EBN3Z2A.mjs")),
             path: "/sfj"
         }
-    }, n = j(()=>import("./__framer-not-found-page.Y6BRXLXH.mjs")), t = document.getElementById("main"), l, u, r = !1;
+    }, n = j(()=>import("https://framerusercontent.com/sites/1TtI9miX8QuOsJd69DO8Ok/__framer-not-found-page.Y6BRXLXH.mjs")), t = document.getElementById("main"), l, u, r = !1;
     if ("framerHydrateV2"in t.dataset) {
         let f = JSON.parse(t.dataset.framerHydrateV2);
         l = f.routeId,
