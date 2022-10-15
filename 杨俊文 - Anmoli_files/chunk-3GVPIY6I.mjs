@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-NNWZFEDR.mjs";var t=a=>({breakpoints:[{hash:"1fwsbhl",mediaQuery:"(min-width: 1200px)"},{hash:"r9dhw4",mediaQuery:"(min-width: 720px) and (max-width: 1199px)"},{hash:"1bbphz5",mediaQuery:"(max-width: 719px)"}],elements:{},title:e(a).title||"Sfj",viewport:"width=device-width"}),n=t,l=1,s={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{n as a,l as b,s as c};
+//# sourceMappingURL=chunk-3GVPIY6I.mjs.map

@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-NNWZFEDR.mjs";var t=a=>({breakpoints:[{hash:"1py953c",mediaQuery:"(min-width: 1200px)"},{hash:"1976v9a",mediaQuery:"(min-width: 720px) and (max-width: 1199px)"},{hash:"7y4lgb",mediaQuery:"(max-width: 719px)"}],elements:{},title:e(a).title||"Project",viewport:"width=device-width"}),n=t,l=1,s={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{n as a,l as b,s as c};
+//# sourceMappingURL=chunk-4CPDJFUG.mjs.map

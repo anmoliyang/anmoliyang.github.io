@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-NNWZFEDR.mjs";var t=a=>({breakpoints:[{hash:"1tx3w0s",mediaQuery:"(min-width: 1200px)"},{hash:"1d3xwzy",mediaQuery:"(min-width: 720px) and (max-width: 1199px)"},{hash:"u48zo5",mediaQuery:"(max-width: 719px)"}],elements:{},title:e(a).title||"Cph",viewport:"width=device-width"}),n=t,s=1,l={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{n as a,s as b,l as c};
+//# sourceMappingURL=chunk-BCRGEGC5.mjs.map
