@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-SFPIV4ZS.mjs";var e=a=>({breakpoints:[{hash:"72rtr7",mediaQuery:"(min-width: 1200px)"},{hash:"1f36g6y",mediaQuery:"(min-width: 720px) and (max-width: 1199px)"},{hash:"55nbte",mediaQuery:"(max-width: 719px)"}],elements:{},title:t(a).title||"Home",viewport:"width=device-width"}),d=e,m=1,s={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{d as a,m as b,s as c};
+//# sourceMappingURL=chunk-TKN73CBG.mjs.map
