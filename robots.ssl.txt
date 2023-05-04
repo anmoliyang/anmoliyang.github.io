@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secured-communication-890622.framer.app/sitemap.xml
