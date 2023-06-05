@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://willing-labeling-028419.framer.app/sitemap.xml
