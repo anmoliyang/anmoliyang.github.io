@@ -1,2 +1,0 @@
-var a=t=>({description:"UI\u8BBE\u8BA1\u5E08\u3001\u5185\u5BB9\u521B\u4F5C\u8005\u3001\u822A\u6A21\u73A9\u5BB6\u3001Hackintosher\u3002 ",favicon:new URL("https://framerusercontent.com/images/rGWrf9uG723IUWPjn94Qf0ej0.png").href,socialImage:new URL("https://framerusercontent.com/images/7tjsFFScAbRDzrQ5u6uH2Rpf1rE.png").href,title:"HELLO\uFF0C\u6211\u662F\u6768\u4FCA\u6587"}),o=a;export{o as a};
-//# sourceMappingURL=chunk-C2MGDADJ.mjs.map
